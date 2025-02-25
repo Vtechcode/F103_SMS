@@ -1,0 +1,9 @@
+../Core/Src/main.c:67:5:checkNetwork	3
+../Core/Src/main.c:156:5:sendSMS	4
+../Core/Src/main.c:218:5:main	2
+../Core/Src/main.c:273:6:SystemClock_Config	3
+../Core/Src/main.c:313:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:346:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:377:13:MX_DMA_Init	1
+../Core/Src/main.c:404:13:MX_GPIO_Init	1
+../Core/Src/main.c:448:6:Error_Handler	1
